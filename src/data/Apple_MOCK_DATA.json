@@ -1,0 +1,25 @@
+{
+  "name": "AAPL (Apple)",
+  "prices": [
+    { "price": 105 },
+    { "price": 107 },
+    { "price": 103 },
+    { "price": 91 },
+    { "price": 92 },
+    { "price": 91 },
+    { "price": 108 },
+    { "price": 92 },
+    { "price": 108 },
+    { "price": 109 },
+    { "price": 93 },
+    { "price": 103 },
+    { "price": 105 },
+    { "price": 105 },
+    { "price": 97 },
+    { "price": 95 },
+    { "price": 110 },
+    { "price": 94 },
+    { "price": 92 },
+    { "price": 95 }
+  ]
+}

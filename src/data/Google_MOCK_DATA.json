@@ -1,0 +1,25 @@
+{
+  "name": "GOOGL (Google)",
+  "prices": [
+    { "price": 109 },
+    { "price": 101 },
+    { "price": 95 },
+    { "price": 91 },
+    { "price": 93 },
+    { "price": 105 },
+    { "price": 105 },
+    { "price": 102 },
+    { "price": 106 },
+    { "price": 103 },
+    { "price": 91 },
+    { "price": 90 },
+    { "price": 99 },
+    { "price": 92 },
+    { "price": 101 },
+    { "price": 109 },
+    { "price": 91 },
+    { "price": 92 },
+    { "price": 99 },
+    { "price": 99 }
+  ]
+}

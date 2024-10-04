@@ -1,0 +1,24 @@
+{
+  "name": "TSLA (Tesla)",
+  "prices": [
+    { "price": 101 },
+    { "price": 89 },
+    { "price": 101 },
+    { "price": 100 },
+    { "price": 100 },
+    { "price": 99 },
+    { "price": 97 },
+    { "price": 90 },
+    { "price": 97 },
+    { "price": 96 },
+    { "price": 90 },
+    { "price": 90 },
+    { "price": 102 },
+    { "price": 90 },
+    { "price": 102 },
+    { "price": 99 },
+    { "price": 89 },
+    { "price": 100 },
+    { "price": 92 }
+  ]
+}
